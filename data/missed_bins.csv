@@ -1,0 +1,23 @@
+report_id,ward,bin_type,collection_date,reported_date
+MB001,Otley,general,2026-11-02,2026-11-02
+MB002,Ilkley,recycling,2026-11-02,2026-11-03
+MB003, otley ,Recycling ,2026-11-03,2026-11-03
+MB004,Burley,garden,2026-11-03,2026-11-04
+MB005,,general,2026-11-03,2026-11-03
+MB006,Menston,food,2026-11-04,2026-11-04
+MB007,ILKLEY,general,2026-11-04,2026-11-05
+MB002,Ilkley,recycling,2026-11-02,2026-11-03
+MB008,Otley,glass,2026-11-04,2026-11-04
+MB009,Burley,GARDEN,2026-11-04,2026-11-04
+,Otley,food,2026-11-05,2026-11-05
+MB010,Otley,food,2026-11-05,2026-11-06
+MB011,Ilkley,general,06/11/2026,2026-11-06
+MB012,Pool,recycling,2026-11-05,2026-11-05
+MB013,ilkley ,food,2026-11-05,2026-11-05
+MB014,Menston,general,2026-11-06,2026-11-04
+MB015,OTLEY,general,2026-11-06,2026-11-06
+MB016,Burley,recycling,2026-11-06,2026-11-31
+MB017,Menston,garden,2026-11-06,2026-11-07
+MB018,Ilkley,recycling,2026-11-06,2026-11-06
+MB019, Otley,food,2026-11-06,2026-11-07
+MB020,burley,general,2026-11-06,2026-11-06
